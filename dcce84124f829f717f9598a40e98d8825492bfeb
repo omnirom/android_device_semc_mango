@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b713d8b_43567061",
+        "filename": "omni.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000999
+      },
+      "writtenOn": "2014-07-16T00:13:54Z",
+      "side": 1,
+      "message": "\"target_path\": \"hardware/qcom/gps\",",
+      "revId": "dcce84124f829f717f9598a40e98d8825492bfeb",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b713d8b_63536c70",
+        "filename": "omni.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000999
+      },
+      "writtenOn": "2014-07-16T00:13:54Z",
+      "side": 1,
+      "message": "\"target_path\": \"hardware/sony/DASH\",",
+      "revId": "dcce84124f829f717f9598a40e98d8825492bfeb",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
